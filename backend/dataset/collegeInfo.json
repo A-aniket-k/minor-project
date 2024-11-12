@@ -1,0 +1,75 @@
+{
+  "name": "XYZ University",
+  "location": "123 College Street, City, Country",
+  "about": "XYZ University is a premier institution offering world-class education in various fields of study, fostering research and innovation.",
+  "contactInfo": {
+    "phone": "+1234567890",
+    "email": "contact@xyzuniversity.edu",
+    "address": "123 College Street, City, Country"
+  },
+  "admission": {
+    "process": "Online application followed by an entrance exam and interview.",
+    "eligibility": "Must have completed high school with at least 50% marks.",
+    "importantDates": "Applications open on 1st June and close on 31st July. Entrance exam on 15th August.",
+    "fees": "Tuition fees: $10,000 per year"
+  },
+  "academics": {
+    "coursesOffered": ["B.Tech", "M.Tech", "MBA", "PhD"],
+    "departments": ["Computer Science", "Mechanical Engineering", "Electrical Engineering", "Business Administration"],
+    "facultyInfo": "Experienced faculty members with PhDs and industry expertise."
+  },
+  "facilities": {
+    "library": "State-of-the-art library with over 100,000 books and journals.",
+    "sports": "Football, basketball, cricket grounds, and indoor facilities.",
+    "hostels": "Separate hostels for boys and girls with 24/7 security and Wi-Fi.",
+    "labs": "Well-equipped labs for engineering and science students.",
+    "infrastructure": "Modern campus with Wi-Fi, seminar halls, and recreational areas."
+  },
+  "events": {
+    "cultural": "Annual cultural fest with music, dance, and drama performances.",
+    "technical": "Technical fest featuring workshops, competitions, and hackathons.",
+    "sportsFest": "Inter-college sports events held every year."
+  },
+  "placement": {
+    "statistics": "85% placement rate with top companies visiting campus.",
+    "topRecruiters": ["Google", "Microsoft", "Amazon", "Tesla"]
+  },
+  "faq": [
+    {
+      "question": "What is the admission process?",
+      "answer": "The admission process includes an online application, entrance exam, and interview."
+    },
+    {
+      "question": "Are there any scholarships available?",
+      "answer": "Yes, the university offers merit-based scholarships."
+    }
+  ],
+  "socialProfiles": {
+    "facebook": "https://www.facebook.com/xyzuniversity",
+    "twitter": "https://twitter.com/xyzuniversity",
+    "instagram": "https://instagram.com/xyzuniversity",
+    "linkedin": "https://linkedin.com/school/xyzuniversity"
+  },
+  "accreditation": {
+    "accreditationBody": "National Board of Accreditation (NBA)",
+    "ranking": "Ranked 15th among top engineering colleges in the country."
+  },
+  "scholarships": [
+    "Merit-based scholarships",
+    "Need-based financial aid"
+  ],
+  "facultyContacts": [
+    {
+      "name": "Dr. John Doe",
+      "department": "Computer Science",
+      "phone": "+1234567891",
+      "email": "johndoe@xyzuniversity.edu"
+    },
+    {
+      "name": "Dr. Jane Smith",
+      "department": "Mechanical Engineering",
+      "phone": "+1234567892",
+      "email": "janesmith@xyzuniversity.edu"
+    }
+  ]
+}
